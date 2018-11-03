@@ -1,0 +1,29 @@
+{
+  "name": "@aibex/razzle-config-transform",
+  "version": "0.1.0",
+  "description": "Simple transformation engine for razzle.config.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "razzle",
+    "react",
+    "hmr",
+    "webpack"
+  ],
+  "author": {
+    "name": "Jakob Heuser",
+    "email": "jakob+razzle-config-transform@aibex-corp.com"
+  },
+  "license": "Apache-2.0",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {
+    "json-query": "^2.2.2"
+  }
+}
