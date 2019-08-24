@@ -1,3 +1,10 @@
+```diff
+! ATTENTION:
+! By this point, you should be using Razzle 3, which
+! removes the need for these custom Razzle configuration
+! workarounds.
+```
+
 # razzle-config-transform
 ## Helper utility for deeply nested webpack configurations
 
